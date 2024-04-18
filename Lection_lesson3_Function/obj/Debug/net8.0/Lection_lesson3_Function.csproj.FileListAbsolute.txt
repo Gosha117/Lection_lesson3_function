@@ -1,0 +1,14 @@
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/bin/Debug/net8.0/Lection_lesson3_Function
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/bin/Debug/net8.0/Lection_lesson3_Function.deps.json
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/bin/Debug/net8.0/Lection_lesson3_Function.runtimeconfig.json
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/bin/Debug/net8.0/Lection_lesson3_Function.dll
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/bin/Debug/net8.0/Lection_lesson3_Function.pdb
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/Lection_lesson3_Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/Lection_lesson3_Function.AssemblyInfoInputs.cache
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/Lection_lesson3_Function.AssemblyInfo.cs
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/Lection_lesson3_Function.csproj.CoreCompileInputs.cache
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/Lection_lesson3_Function.dll
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/refint/Lection_lesson3_Function.dll
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/Lection_lesson3_Function.pdb
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/Lection_lesson3_Function.genruntimeconfig.cache
+/Users/nikolajpavlov/Desktop/Lesson01_C#/Lection_lesson3_Function/obj/Debug/net8.0/ref/Lection_lesson3_Function.dll
